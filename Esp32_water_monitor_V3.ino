@@ -56,11 +56,8 @@ using namespace ace_button;
 // WiFi Credentials (choose one set)
 // Uncomment the credentials you wish to use:
 // Primary credentials:
-// char ssid[] = "suresh_1_2.4";
-// char pass[] = "GHALEYFAMILY@1";
-// Alternative credentials:
-char ssid[] = "pradeepdeuba_wnepal";
-char pass[] = "434F002D93";
+// char ssid[] = "wifi ssid only 2.4";
+// char pass[] = "wifi passeord";
 
 // OLED Display Settings
 #define SCREEN_WIDTH 128  
